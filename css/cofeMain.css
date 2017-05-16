@@ -1,0 +1,14 @@
+.arriba{
+  font-family: 'Barrio', cursive;
+
+  background-color: #52FFB8;
+
+  /*background-color: #4A051C;*/
+  color: white;
+}
+body{
+  background-color: #4A051C;
+}
+.fotos{
+  margin-top: 30px;
+}
