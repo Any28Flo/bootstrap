@@ -1,14 +1,20 @@
+*{
+  font-family: 'Pacifico', cursive;
+}
 .arriba{
-  font-family: 'Barrio', cursive;
 
-  background-color: #52FFB8;
-
-  /*background-color: #4A051C;*/
+  background-color: #A9F0D1;
   color: white;
 }
 body{
-  background-color: #4A051C;
+  background-color: #FFF7F8;
 }
-.fotos{
-  margin-top: 30px;
+.thumbnail img{
+
+  height: 250px;
+  width: 90%;
+}
+.margen{
+  margin-top: 20px;
+
 }
