@@ -16,5 +16,8 @@ body{
 }
 .margen{
   margin-top: 20px;
-
+}
+footer{
+  background-color: #52FFB8;
+  height: 150px;
 }
